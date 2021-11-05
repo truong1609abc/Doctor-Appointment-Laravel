@@ -1,7 +1,7 @@
 
 ## Doctor-Appointment-Laravel 
 
-Mô tả :
+Mô tả :</br>
             + Giúp mọi người đặt lịch khám và chữa bệnh nhanh hơn ,hiệu quả hơn và tiết kiệm thời  gian di chuyển<br/>
            +Giúp Admin dễ quản lí ca làm việc của bác sĩ,kiểm tra thống kê cuộc hẹn dễ dàng hơn. 
 <br/>
